@@ -2,7 +2,7 @@
 
 A simple AI-powered Recipe Bot built with Streamlit and OpenAI Agents that suggests easy, tasty recipes based on the ingredients you have. Just type your available ingredients, and the bot will provide step-by-step cooking instructions with fun emojis to make cooking more enjoyable!
 
-![Recipe Bot Screenshot](images/Preview.png)
+![Recipe Bot Screenshot](./Preview.png)
 
 ## Description
 
@@ -28,4 +28,5 @@ This app uses:
    ```bash
    git clone https://github.com/yourusername/recipe-bot.git
    cd recipe-bot
+
 
